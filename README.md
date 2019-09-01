@@ -14,13 +14,12 @@
 - cephes, cwrap, distributions, dok, fun, gnuplot, graph, image, inspect, luaffi, luafilesystem, moses, nn, nngrpah, nnx, optim, paths, penlight, randomkit, strict, sundown, sys, torch, totem, xlua 
 
 ## Run
-- Add the key/value in system environment variables
-  Path  /    C:\torch\install
+- Add the key/value at system environment variables :  Path  /   C:\torch\install
 - Open "Window Command Prompt"
-- > mkdir c:\torch
-- > cd c:\torch
-- > git clone https://github.com/glingi/torch_win10_x64.git install
-- > luajit
+ > mkdir c:\torch
+ > cd c:\torch
+ > git clone https://github.com/glingi/torch_win10_x64.git install
+ > luajit
 
 ## Reference
 [1] https://github.com/torch/torch7/wiki/Windows#using-visual-studio-manually
