@@ -14,7 +14,11 @@
 - cephes, cwrap, distributions, dok, fun, gnuplot, graph, image, inspect, luaffi, luafilesystem, moses, nn, nngrpah, nnx, optim, paths, penlight, randomkit, strict, sundown, sys, torch, totem, xlua 
 
 ## Run
-- Add the key/value at system environment variables :  Path  /   C:\torch\install
+- Set the following system environment variables 
+``` sh
+Key      value
+Path     C:\torch\install
+```
 - Open "Window Command Prompt"
 ``` sh
  > mkdir c:\torch
