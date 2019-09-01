@@ -17,10 +17,10 @@
 - Add the key/value at system environment variables :  Path  /   C:\torch\install
 - Open "Window Command Prompt"
 ``` sh
- mkdir c:\torch
- cd c:\torch
- git clone https://github.com/glingi/torch_win10_x64.git install
- luajit
+ > mkdir c:\torch
+ > cd c:\torch
+ > git clone https://github.com/glingi/torch_win10_x64.git install
+ > luajit
 ```
 
 ## Reference
