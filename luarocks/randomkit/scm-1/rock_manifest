@@ -1,0 +1,50 @@
+rock_manifest = {
+   doc = {
+      html = {
+         ["index.html"] = "b73796118d9f58bbfe71895fcc0c8f81",
+         javascripts = {
+            ["jquery.tocLight.js"] = "8361fc6da9d8932da1f3dbf1e3526f4e",
+            ["scale.fix.js"] = "6c7cd2e1afbc835c560f40088cc7bb58"
+         },
+         ["randomkit.html"] = "a17de26dc92c692d31a9757f4ab76ca7",
+         stylesheets = {
+            ["pygment_trac.css"] = "cdae4deccc46b2f5d54e460b0462d385",
+            ["styles.css"] = "4105571f3a958b0adc4ec692858c059f"
+         }
+      },
+      ["intro.md"] = "bf7f50ae67b7259c3a024e38f97f6132",
+      src = {
+         [".gitignore"] = "a0d72efa1e61d9525873e34f6dc5f9f2",
+         Gemfile = "a49647fcd383fa2df87b2f85986328ae",
+         ["README.DOC.markdown"] = "a818dd9e7b57b7db034a7ed485d5d933",
+         ["_config.yml"] = "70d9ed9b9537f39de8cf3804b6c00169",
+         _layouts = {
+            ["doc.html"] = "6ee72fd87b50780247f26ba43670953d"
+         },
+         _plugins = {
+            ["fancytoc.rb"] = "125e7c6390f839ed649737cf05f4f160"
+         },
+         ["index.markdown"] = "d1f1acdcfdde64527a7b1ae644b7c199",
+         javascripts = {
+            ["jquery.tocLight.js"] = "8361fc6da9d8932da1f3dbf1e3526f4e",
+            ["scale.fix.js"] = "6c7cd2e1afbc835c560f40088cc7bb58"
+         },
+         ["randomkit.html"] = "a17de26dc92c692d31a9757f4ab76ca7",
+         stylesheets = {
+            ["pygment_trac.css"] = "cdae4deccc46b2f5d54e460b0462d385",
+            ["styles.css"] = "4105571f3a958b0adc4ec692858c059f"
+         }
+      }
+   },
+   lib = {
+      ["librandomkit.dll"] = "d42cbb74129b664605366ccfb9e5c541"
+   },
+   lua = {
+      randomkit = {
+         ["init.lua"] = "386c3c30bc80c3020a45a87f3625a546",
+         ["nonC.lua"] = "4bf3ef76e658cdde062ea66e398051bc",
+         ["wrapC.lua"] = "0f33a979bfe907a3a769ac4b2a2fadaf"
+      }
+   },
+   ["randomkit-scm-1.rockspec"] = "85db6e9e0d13baf8061a219d1328644a"
+}

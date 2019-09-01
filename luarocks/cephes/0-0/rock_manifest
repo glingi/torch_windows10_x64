@@ -1,0 +1,62 @@
+rock_manifest = {
+   ["cephes-0-0.rockspec"] = "b10e383548c76db7d96cfb2bf43e5bf1",
+   doc = {
+      [".gitignore"] = "54d1daf8a1b9b294911fb9c921324dc6",
+      html = {
+         ["doubldoc.html"] = "16155a8af006cdcf78cacf29f87e22e2",
+         ["index.html"] = "2e1cf07e48352a0e3289cbf1161802c2",
+         javascripts = {
+            ["scale.fix.js"] = "6c7cd2e1afbc835c560f40088cc7bb58"
+         },
+         ["params.json"] = "0381006be99172a675c36c8c19461c74",
+         readme = "626bdb01b7ef2749afca8de5739c0d9b",
+         stylesheets = {
+            ["pygment_trac.css"] = "cdae4deccc46b2f5d54e460b0462d385",
+            ["styles.css"] = "4ca8e8b65dd99260c3ad568db8c38dce"
+         }
+      },
+      markdown = {
+         ["doubldoc.md"] = "41aecba8e92b8bcfa7b9c514263f67f5",
+         ["index.md"] = "37b872ab5d59a0fa659657b6e2b59880"
+      },
+      src = {
+         [".gitignore"] = "a0d72efa1e61d9525873e34f6dc5f9f2",
+         Gemfile = "a49647fcd383fa2df87b2f85986328ae",
+         ["Gemfile.lock"] = "6b1788eb0393a54e6aaa1830e5261598",
+         ["MdWriter.lua"] = "b30beb710acd6b5441abaa39185fa08e",
+         ["README.DOC.markdown"] = "aaaace7745122e1c5b99ed081bd40f76",
+         ["_config.yml"] = "78d0a13247dff5651eea8785f0d217db",
+         _layouts = {
+            ["doc.html"] = "6ee72fd87b50780247f26ba43670953d"
+         },
+         _plugins = {
+            ["fancytoc.rb"] = "125e7c6390f839ed649737cf05f4f160"
+         },
+         ["doubldoc.html"] = "16155a8af006cdcf78cacf29f87e22e2",
+         ["index.markdown"] = "a6e9237393f8e7a24d9cc418f7442168",
+         javascripts = {
+            ["scale.fix.js"] = "6c7cd2e1afbc835c560f40088cc7bb58"
+         },
+         ["params.json"] = "0381006be99172a675c36c8c19461c74",
+         readme = "626bdb01b7ef2749afca8de5739c0d9b",
+         stylesheets = {
+            ["pygment_trac.css"] = "cdae4deccc46b2f5d54e460b0462d385",
+            ["styles.css"] = "4ca8e8b65dd99260c3ad568db8c38dce"
+         },
+         ["to_markdown.lua"] = "7327c3da8ec0a6561f65161f469b336c"
+      }
+   },
+   lib = {
+      ["libcephes.dll"] = "93fbbbc781a7b3d98cf259409cb230c4"
+   },
+   lua = {
+      cephes = {
+         ["bessel.lua"] = "97755b1bcfabaa9b2247aaaba12d749d",
+         ["cmath.lua"] = "99b80acd4a52bc0faebb1cee51e3912e",
+         ["error_handling.lua"] = "d2e6e48b5d23880f5f666d198fcadf6f",
+         ["init.lua"] = "c2b767128e32bacb6041577b66c42e3b",
+         ["limits.lua"] = "89f13c6173e269534eb30a4c07314bb7",
+         ["misc.lua"] = "7913be32817891a0bb94caf00df47eef"
+      }
+   }
+}

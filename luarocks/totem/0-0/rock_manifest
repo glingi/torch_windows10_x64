@@ -1,0 +1,25 @@
+rock_manifest = {
+   bin = {
+      ["totem-init"] = "9dfae2e7bae637acc24a32f4c41556d9",
+      ["totem-run"] = "f21aeea561da6e5a1c51b11a7f64188f"
+   },
+   doc = {
+      LICENSE = "9ebede79bd70cf9c467fa4fb49e5b1e6",
+      ["README.md"] = "b06c4e56d2ff89b76943eddee556c454"
+   },
+   lua = {
+      totem = {
+         ["TestSuite.lua"] = "59106b5086831335234c3e89b0df123d",
+         ["Tester.lua"] = "7631f44befa2fbb97e76b4d38492701e",
+         ["asserts.lua"] = "77234182a172ff71dcb5f8ab408eae18",
+         examples = {
+            ["test_nn.lua"] = "58d0447307ac639da6f2d3497a9dc972",
+            ["test_simple.lua"] = "808273a7aea9f8ecbac53cba17a540b3",
+            ["test_tensor.lua"] = "44f9b9f137e829ace861a1bfa193dc47"
+         },
+         ["init.lua"] = "783ec4d42508b223080ed1d81b60758d",
+         ["nn.lua"] = "dbd94c6ef690ad98a50cae5ecfc8722b"
+      }
+   },
+   ["totem-0-0.rockspec"] = "2514089d3924bea92f5b67a3c2019a05"
+}

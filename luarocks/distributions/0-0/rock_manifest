@@ -1,0 +1,59 @@
+rock_manifest = {
+   ["distributions-0-0.rockspec"] = "9f53e09d1e51eba021e4727bd8ec1eee",
+   doc = {
+      html = {
+         ["index.html"] = "02d7ecf71e6a9c7b78008efd2ce8bc61",
+         javascripts = {
+            ["jquery.tocLight.js"] = "8361fc6da9d8932da1f3dbf1e3526f4e",
+            ["scale.fix.js"] = "6c7cd2e1afbc835c560f40088cc7bb58"
+         },
+         stylesheets = {
+            ["pygment_trac.css"] = "cdae4deccc46b2f5d54e460b0462d385",
+            ["styles.css"] = "1afde4f2ab274cfbd21b60f83c95a3d9"
+         },
+         ["testing.html"] = "b94599bf9c13335264627e7bfac6a498"
+      },
+      src = {
+         [".gitignore"] = "a0d72efa1e61d9525873e34f6dc5f9f2",
+         Gemfile = "a49647fcd383fa2df87b2f85986328ae",
+         ["README.DOC.markdown"] = "9430f84441e0c0e44eb4afd260b2143b",
+         ["_config.yml"] = "70d9ed9b9537f39de8cf3804b6c00169",
+         _layouts = {
+            ["doc.html"] = "6ee72fd87b50780247f26ba43670953d"
+         },
+         _plugins = {
+            ["fancytoc.rb"] = "125e7c6390f839ed649737cf05f4f160"
+         },
+         ["index.markdown"] = "a40cb5678e4b8b9abf882fd7a35a8245",
+         javascripts = {
+            ["jquery.tocLight.js"] = "8361fc6da9d8932da1f3dbf1e3526f4e",
+            ["scale.fix.js"] = "6c7cd2e1afbc835c560f40088cc7bb58"
+         },
+         stylesheets = {
+            ["pygment_trac.css"] = "cdae4deccc46b2f5d54e460b0462d385",
+            ["styles.css"] = "1afde4f2ab274cfbd21b60f83c95a3d9"
+         },
+         ["testing.markdown"] = "5661667eb148ae01e76043bafc7e27a0"
+      }
+   },
+   lua = {
+      distributions = {
+         ["categorical.lua"] = "01bc068156ed642fecd7fad618f58f88",
+         ["cauchy.lua"] = "88e32361c612aa7c5e63207b28e67594",
+         ["chi2.lua"] = "6734dd1631c345f1bdd2418ff6f0f2ca",
+         ["chi2test.lua"] = "574a30949083cb01a0650f52ffedab45",
+         ["dirichlet.lua"] = "6ce7493c6646e9e5cb36444b381b0182",
+         ["gamma.lua"] = "3dca29058921dcc8c468e0f71cf43618",
+         ["gaussian.lua"] = "425fe47d993645e66ddb5505d4002284",
+         ["init.lua"] = "f867fc8d5cbb28297a55b23e5a93cac1",
+         ["kstest.lua"] = "4bbcb0d27b2c14faa72fcad23ec7e013",
+         ["laplace.lua"] = "912be7a03bb1b6f98033f11ff27518dc",
+         ["multivariateGaussian.lua"] = "ba73dbc2815aa7e08dda208062d4e650",
+         ["mvcat.lua"] = "44f52aff6870e309d4757e8d9046dd43",
+         ["normalWishart.lua"] = "3987f3f2c4afc46afcd3e7ce4c7eebc9",
+         ["poisson.lua"] = "ed3d913b25f4cff994930e7061893cfb",
+         ["util.lua"] = "28054266a17aa053e6cf626e79cac81c",
+         ["wishart.lua"] = "5d00655f1f1c5beb3790257b4e96257e"
+      }
+   }
+}
