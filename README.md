@@ -14,7 +14,7 @@
 - cephes, cwrap, distributions, dok, fun, gnuplot, graph, image, inspect, luaffi, luafilesystem, moses, nn, nngrpah, nnx, optim, paths, penlight, randomkit, strict, sundown, sys, torch, totem, xlua 
 
 ## Run
-- Set the following system environment variables 
+- Set the following system environment variable
 ``` sh
 Key      value
 Path     C:\torch\install
