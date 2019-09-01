@@ -16,10 +16,12 @@
 ## Run
 - Add the key/value at system environment variables :  Path  /   C:\torch\install
 - Open "Window Command Prompt"
- 1. >> mkdir c:\torch
- 2. > cd c:\torch
- 3. > git clone https://github.com/glingi/torch_win10_x64.git install
- 4. > luajit
+''' sh
+ mkdir c:\torch
+ cd c:\torch
+ git clone https://github.com/glingi/torch_win10_x64.git install
+ luajit
+'''
 
 ## Reference
 [1] https://github.com/torch/torch7/wiki/Windows#using-visual-studio-manually
